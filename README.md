@@ -34,7 +34,7 @@ Feel free to reach out to me on [Discord](https://discord.gg/V7fQDdXghx) if you 
 
 ## Order Now
 
-Ready to start a project? Visit [Order Now](https://irxqi.github.io/order) to get in touch and kickstart our collaboration!
+Ready to start a project? [Order Now](https://irxqi.github.io/order) to get in touch and kickstart Your Website!
 
 
 
