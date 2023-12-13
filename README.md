@@ -15,7 +15,7 @@ This is a simple and clean portfolio website showcasing my skills and projects. 
 
 ## Preview
 
-![Portfolio Preview](<https://imgur.com/a/iETcYWV>)
+![Portfolio Preview](https://imgur.com/a/iETcYWV>](https://i.imgur.com/HQWhdmz.png)
 
 ## Features
 
